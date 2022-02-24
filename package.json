@@ -1,0 +1,23 @@
+{
+  "name": "hellonodejs",
+  "version": "1.0.0",
+  "description": "NodeJS Hello world application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arunold/HelloNodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arunold/HelloNodeJS/issues"
+  },
+  "homepage": "https://github.com/Arunold/HelloNodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
